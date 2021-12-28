@@ -40,6 +40,7 @@ Plug 'jiangmiao/auto-pairs' "autoclosing {[(
 Plug 'yuezk/vim-js'
 Plug 'HerringtonDarkholme/yats.vim'
 Plug 'maxmellon/vim-jsx-pretty'
+Plug 'preservim/nerdtree'
 call plug#end()
 
 colorscheme tokyonight
